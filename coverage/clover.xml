@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1669487464999" clover="3.2.0">
+  <project timestamp="1669487464999" name="All files">
+    <metrics statements="22" coveredstatements="22" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7" elements="33" coveredelements="33" complexity="0" loc="22" ncloc="22" packages="1" files="4" classes="4"/>
+    <file name="calculator.js" path="C:\Users\DELL\Desktop\Microverse\Js-Testing-Practice\calculator.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+    <file name="capitalise-string.js" path="C:\Users\DELL\Desktop\Microverse\Js-Testing-Practice\capitalise-string.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="reverse-string.js" path="C:\Users\DELL\Desktop\Microverse\Js-Testing-Practice\reverse-string.js">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="5" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="stringlength.js" path="C:\Users\DELL\Desktop\Microverse\Js-Testing-Practice\stringlength.js">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
